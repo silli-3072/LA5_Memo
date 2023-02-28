@@ -47,10 +47,4 @@ class MainActivity : AppCompatActivity() {
         //list.adapter = ArrayAdapter(this, android.R.layout.simple_list_item_1, JSONArray(str))
 
     }
-
-    override fun onStop() {
-        super.onStop()
-
-    }
-
 }
